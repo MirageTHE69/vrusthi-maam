@@ -47,7 +47,7 @@ export default function CareersPage() {
                   <span className="text-[#9DC41A] mt-8 ">Healthcare&apos;s</span>
                   <br />
                   <span>Future</span>'
-            description="Empowering Growth, Celebrating Success"
+            description="empowering growth, celebrating success"
             showKnowMoreButton={false}
           />
         </div>
@@ -150,7 +150,7 @@ export default function CareersPage() {
                   </a>
                 </p>
                 <p className="text-lg">Or connect with us via WhatsApp</p>
-                <p className="font-medium text-lg">  (+91) 9825519537</p>
+                <p className="font-medium text-lg"> (+91) 9825519537</p>
               </motion.div>
             </motion.div>
           </div>
